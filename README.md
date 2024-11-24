@@ -1,4 +1,4 @@
-# Fully automatic acquisition of images on NMEFC
+# CNTASS---Fully automatic acquisition of images on NMEFC
 一个基于TurboWarp的全自动获取 国家海洋预报台(NMEFC) 最新风暴潮传真报图以及海啸警报的软件
 在线网址:https://mdoe123.top/eew/CNTASS-HTML-T-V1.0.1.html
 
